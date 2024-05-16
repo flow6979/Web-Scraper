@@ -24,7 +24,7 @@ The GrabFood Web Scraper operates in several stages:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/flow6979/Web-Scraper
+    git clone https://github.com/flow6979/Web-Scraper.git
 
 
 2. **Install Dependencies**
