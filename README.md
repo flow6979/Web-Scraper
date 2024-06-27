@@ -33,11 +33,11 @@ The GrabFood Web Scraper operates in several stages:
 
 3. **Make the script executable**
    ```bash
-   chmod +x run.sh 
+   chmod +x run.sh
 
 4. **Execute the script**
    ```bash
-   ./run.sh   
+   ./run.sh
 
 
 ## Approach
@@ -55,5 +55,3 @@ I didn't stop there, though. By using Grab's API, I hoped to further enhance the
 Now that I had my data, I could finally get my hands dirty and start analysing it. I looked over the information gathered to find patterns and insights about eateries, retailers, and customer preferences. Using graphs and charts to visually represent my findings improved my understanding of the data and my ability to present my findings.
 
 I devoted special attention to quality assurance all along the way. I put my solution through a rigorous testing process to make sure the collected data was accurate and reliable, and I handled any edge situations or exceptions with grace.
-
-Thank you!!
